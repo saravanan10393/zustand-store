@@ -1,5 +1,5 @@
 {
-  "name": "zustand-store",
+  "name": "@sara/zustand-store",
   "version": "1.0.0",
   "description": "",
   "exports": {
